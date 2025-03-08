@@ -148,3 +148,14 @@ To enhance customer satisfaction and improve product offerings:
 - Target marketing efforts towards the most active age groups.
 - Continue monitoring customer feedback to identify areas for improvement.
 - Use positive feedback to highlight popular products and improve customer trust.
+
+
+## Limitations
+- Data Completeness: The dataset may not include all customer reviews, potentially leading to incomplete insights.
+- Data Accuracy: There may be errors or inconsistencies in the data that could affect the accuracy of the analysis.
+- Generalizability: Insights derived from this dataset may not be generalizable to other e-commerce platforms or product categories.
+- Temporal Limitations: The analysis is based on historical data and may not reflect current or future trends.
+- Review Sentiment: The analysis assumes that review sentiment is a primary factor in customer satisfaction, which may not always be the case.
+- Product Popularity: The analysis assumes that product popularity is a primary factor in customer reviews, which may not always be the case.
+- Customer Feedback: The analysis assumes that customer feedback is a primary factor in product improvement, which may not always be the case.
+- Data Granularity: The dataset may lack detailed information on specific customer interactions, leading to less precise insights.
